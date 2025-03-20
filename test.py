@@ -1,4 +1,4 @@
 import os
 
-print('the applied env var is')
-print(os.environ.get('MY_VAR3'))
+print('the applied env var main is')
+print(os.environ.get('TEST_VAR1'))
